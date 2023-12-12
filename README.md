@@ -16,7 +16,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=noslav7&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 📫 How to reach me: 
+
 email: noslav7@gmail.com
+
 linkedin: https://www.linkedin.com/in/valentin-rachkov-bba670229/
+
 telegram: @HelloWorld13579
+
 skype: live:.cid.39462899d1717690
