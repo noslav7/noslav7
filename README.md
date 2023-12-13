@@ -19,8 +19,6 @@
 
 email: noslav7@gmail.com
 
-linkedin: https://www.linkedin.com/in/valentin-rachkov-bba670229/
-
 telegram: @HelloWorld13579
 
 skype: live:.cid.39462899d1717690
