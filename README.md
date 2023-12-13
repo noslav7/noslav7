@@ -4,9 +4,9 @@
 
 🌱 I’m currently learning various technologies which are used in Java development. In particular Spring Framework and Spring Boot.
 
-👯 I’m looking to collaborate on IT-company, especially, but not limited to, which collaborates with English-speaking customers.
+👯 I’m looking forward to collaboration with an IT-company, especially, but not limited to, one, which works with English-speaking customers.
 
-🤔 I’m looking for the opportunity to learn modern Java-development-technologies and with obtaining practucal experience in actual projects.
+🤔 I’m looking for the opportunity to learn modern Java-development technologies and to obtain practucal experience in actual projects.
 
 # 💻 Tech Stack:
 Java Core, Intellij IDEA, Maven, Git, PostgreSQL, Hibernate, Spring (Core, MVC, Data JPA, Test, Security, Boot), REST API (Jackson)
