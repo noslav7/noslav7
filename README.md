@@ -8,6 +8,8 @@
 
 🤔 I’m looking for the opportunity to learn modern Java-development technologies and to obtain practucal experience in actual projects.
 
+The most recent project: https://github.com/noslav7/topjava
+
 # 💻 Tech Stack:
 Java Core, Intellij IDEA, Maven, Git, PostgreSQL, Hibernate, Spring (Core, MVC, Data JPA, Test, Security, Boot), REST API (Jackson)
 # 📊 GitHub Stats:
