@@ -10,7 +10,7 @@
 
 
 # 💻 Tech Stack:
-Java Core, Intellij IDEA, Maven, Git, PostgreSQL, Hibernate, Spring (Core, MVC, AOP, Data JPA, Test, Security, Boot), REST API (Jackson), Docker, Kubernetes, Testcontainers, Mockito, JUnit.
+Java Core, Intellij IDEA, Maven, Git, PostgreSQL, Hibernate, Spring (Core, MVC, AOP, Data JPA, Test, Security, Boot), REST API (Jackson), Zipkin, Prometheus, ELK, Docker, Kubernetes, Testcontainers, Mockito, JUnit, Jira, Confluence et al.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=noslav7&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=noslav7&theme=solarized-light&hide_border=false)<br/>
