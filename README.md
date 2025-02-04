@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-🔭 I’m currently working on the development of Spring Boot application using stack: ... and various testing technologies.
+🔭 I’m currently working on the development of Spring Boot application using techological stack: ... and various testing technologies.
 
 🌱 I’m currently studying various technologies which are used in Java development. In particular...
 
