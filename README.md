@@ -9,7 +9,7 @@
 🤔 I’m looking for the opportunity to learn modern Java-development technologies and to obtain additional experience in actual projects.
 
 # 💻 Tech Stack:
-Java Core, Intellij IDEA, Maven, Git, PostgreSQL, Hibernate, Spring (Core, MVC, AOP, Data JPA, Test, Security, Boot), REST API, Jackson, Zipkin, Prometheus, Kafka, Docker, Kubernetes, Testcontainers, Mockito, JUnit, Jira, Confluence, HTML, CSS, JavaScript
+Java 8+, Hibernate, Spring (Boot, Web, AOP, Data, Test, Security, AI etc.), Maven, Gradle, Git, PostgreSQL, REST API, Jackson, Zipkin, Prometheus, Kafka, Docker, Kubernetes, Testcontainers, Mockito, JUnit, Jira, Confluence
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=noslav7&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=noslav7&theme=solarized-light&hide_border=false)<br/>
