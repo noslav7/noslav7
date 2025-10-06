@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-🔭 I’m currently working on the development of banking application using techological stack: ...
+🔭 I’m currently working on the development of banking application using technological stack: ...
 
 🌱 I’m currently studying various technologies which are used in Java development. In particular Spring AI.
 
