@@ -6,7 +6,7 @@
 
 👯 I’m looking forward to collaboration with a perspective IT-company.
 
-🤔 I’m looking for the opportunity to learn modern Java-development technologies and to obtain additional experience in actual projects.
+🤔 I’m looking for the opportunity to implement modern Java-development technologies in actual projects.
 
 # 💻 Tech Stack:
 Java 8+, Hibernate, Spring (Boot, Web, AOP, Data, Test, Security, AI etc.), Maven, Gradle, Git, PostgreSQL, REST API, Jackson, Zipkin, Prometheus, Kafka, Docker, Kubernetes, Testcontainers, Mockito, JUnit, Jira, Confluence
@@ -20,5 +20,3 @@ Java 8+, Hibernate, Spring (Boot, Web, AOP, Data, Test, Security, AI etc.), Mave
 email: noslav7@gmail.com
 
 telegram: @HelloWorld13579
-
-skype: live:.cid.39462899d1717690
